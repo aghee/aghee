@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 👯 I’m looking to collaborate on django projects  
+#### 👯 I’m looking to collaborate on django projects  
 ### 💬 Ask me about python, data analytics  
 ### 📫 How to reach me: agymunzala@gmail.com  
 ### 😄 Pronouns: She/Her  
