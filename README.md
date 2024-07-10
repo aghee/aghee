@@ -1,7 +1,7 @@
 ## Hello,I'm Agnes 👋
 
 #### 👯 I’m looking to collaborate on django projects  
-#### 💬 Ask me about python, data analytics  
+#### 💬 Ask me about python, sql, data analytics  
 #### 📫 How to reach me: agymunzala@gmail.com  
 #### 😄 Pronouns: She/Her  
 #### ⚡ Fun fact: Did you know that if you don't give up you are still winning!
