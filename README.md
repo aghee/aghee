@@ -4,7 +4,7 @@
 #### 💬 Ask me about python, sql, data analytics  
 #### 📫 How to reach me: agymunzala@gmail.com  
 #### 😄 Pronouns: She/Her  
-#### ⚡ Fun fact: Did you know that if you don't give up you are still winning!
+#### ⚡ Fun fact: Did you know that an ostrich's eye is bigger than its brain!
 
 
 <!--
